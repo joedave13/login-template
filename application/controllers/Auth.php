@@ -67,7 +67,7 @@
                 'protocol' => 'smtp',
                 'smtp_host' => 'ssl://smtp.googlemail.com',
                 'smtp_user' => 'davelaine48@gmail.com',
-                'smtp_pass' => 'Dave20000',
+                'smtp_pass' => 'Dave48481998',
                 'smtp_port' => 465,
                 'mailtype' => 'html',
                 'charset' => 'utf-8',
@@ -261,5 +261,3 @@
     }
     
     /* End of file Auth.php */
-    
-?>
